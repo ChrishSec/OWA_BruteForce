@@ -24,7 +24,7 @@ def read_file(filename):
         return [line.strip() for line in file]
 
 parser = argparse.ArgumentParser(description='OWA Brute Force Attack Tool By ChrishSec.com')
-parser.add_argument('-t', '--target', required=True, help='Target URL (e.g., target.com)')
+parser.add_argument('-t', '--target', required=True, help='Target URL (e.g., webmail.target.com)')
 parser.add_argument('-u', '--user', required=True, help='Single username or file containing usernames')
 parser.add_argument('-p', '--password', required=True, help='Single password or file containing passwords')
 args = parser.parse_args()
