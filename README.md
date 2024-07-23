@@ -27,7 +27,7 @@ OWA Brute Force Attack Tool By ChrishSec.com
 options:
   -h, --help            show this help message and exit
   -t TARGET, --target TARGET
-                        Target URL (e.g., target.com)
+                        Target URL (e.g., webmail.target.com)
   -u USER, --user USER  Single username or file containing usernames
   -p PASSWORD, --password PASSWORD
                         Single password or file containing passwords
