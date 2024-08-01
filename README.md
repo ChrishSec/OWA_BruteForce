@@ -10,7 +10,7 @@ A Python script for brute forcing Outlook Web Access (OWA) logins. Supports sing
 
 1. Clone the repository:
 
-```git clone https://github.com/ChrishSec/OWA_BruteForce.git```
+```git clone https://github.com/ChrishSec/OwaBruteForce.git```
 
 2. Install the required dependencies:
 
